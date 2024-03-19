@@ -1,4 +1,6 @@
-# React + Vite
+# Projeto Todo List React + Vite
+
+Projeto para praticar os conhecimentos em React, JavaScript, HTML e CSS.
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
